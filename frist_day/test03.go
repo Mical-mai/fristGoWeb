@@ -9,4 +9,5 @@ func main() {
 		a = x
 	}
 	fmt.Println(a)
+	fmt.Println(a/10)
 }
